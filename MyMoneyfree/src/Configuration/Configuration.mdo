@@ -51,6 +51,7 @@
   <documents>Document.ПоступлениеДенег</documents>
   <documents>Document.РасходДенег</documents>
   <enums>Enum.Пол</enums>
+  <enums>Enum.Статус</enums>
   <reports>Report.Затраты</reports>
   <reports>Report.СколькоДенег</reports>
   <reports>Report.ГрафикПоДням</reports>

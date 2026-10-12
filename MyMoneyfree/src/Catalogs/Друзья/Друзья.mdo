@@ -78,6 +78,24 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="bbf6f94c-2571-49a2-96ca-7ad5a64d79d3">
+    <name>Имя</name>
+    <synonym>
+      <key>ru</key>
+      <value>Имя</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>20</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="e793a392-4f9a-4b65-a0d2-af5854b9fa74">
     <producedTypes>
       <objectType typeId="a251544c-2511-413f-8c2c-fd175c04d0f4" valueTypeId="c568b988-198c-48d6-a883-c73b3796d7fa"/>

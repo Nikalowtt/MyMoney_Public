@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c742977a-e560-4c16-a5dc-2fb90eb33cc0">
+  <producedTypes>
+    <refType typeId="32b7e8c5-41fe-4a71-bbe7-8c49e48e1a7d" valueTypeId="c685ebc0-b2bb-418f-9681-45f607ed567a"/>
+    <listType typeId="3ed19561-4075-40bc-bf5c-34117865f9a2" valueTypeId="b80671c3-f739-4bbc-b9cc-92df837024eb"/>
+    <managerType typeId="16ae71b2-4a3f-4681-8658-4cf25407d827" valueTypeId="c44a19a4-7c45-4760-a5d7-9b982b2dc1c9"/>
+  </producedTypes>
+  <name>Статус</name>
+  <synonym>
+    <key>ru</key>
+    <value>Статус</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="b3b1adf6-3bcc-465b-89f7-8b1cb0d5ff58">
+    <name>ЛучшийДруг</name>
+    <synonym>
+      <key>ru</key>
+      <value>Лучший друг</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="143f1736-4896-4a2e-8a5f-4557f8a15aea">
+    <name>Друг</name>
+    <synonym>
+      <key>ru</key>
+      <value>Друг</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="a89db0c0-426b-4c7b-84f6-d782eaa96a77">
+    <name>Знакомый</name>
+    <synonym>
+      <key>ru</key>
+      <value>Знакомый</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
